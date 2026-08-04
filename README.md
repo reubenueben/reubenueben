@@ -1,4 +1,4 @@
-# Hi there 👋             
+# Hi there <img src="./assets/pepsimanwantsyou.png" width="25">          
 
 ## 🛠️ Tech Stack
 
